@@ -33,3 +33,8 @@ Se daqui a alguns anos isso tiver virado um monstro impossível de manter, signi
 **Status:** duplicando cabeças
 **Início:** 08/2026
 **Previsão de conclusão:** provavelmente nunca
+
+---
+
+> Day 1
+> Coloquei um banco e to criando um router ultra mega blaster pronto pra lidar com papo de milhares de requisições, mesmo q eu devesse barrar isso pra evitar bots?
